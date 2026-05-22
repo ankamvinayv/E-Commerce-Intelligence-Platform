@@ -328,14 +328,14 @@ with tab1:
                           labels={'count':'Number of products','category':'Category'})
         fig_risk.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                                legend_title='Risk Level', height=320)
-        st.plotly_chart(fig_risk, use_container_width=True)
+        st.plotly_chart(fig_risk, width="stretch")
 
     st.markdown(f"**Showing {len(filtered)} products** — sorted by highest risk first")
     st.dataframe(
         filtered[['product_id','category','stock_level','stockout_risk_score','risk_label']]
                   .sort_values('stockout_risk_score', ascending=False)
                   .head(20),
-        use_container_width=True, height=320
+        width="stretch", height=320
     )
 
     st.markdown("---")
@@ -361,7 +361,7 @@ with tab1:
         fig_rural.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
         fig_rural.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                                 showlegend=False, height=360)
-        st.plotly_chart(fig_rural, use_container_width=True)
+        st.plotly_chart(fig_rural, width="stretch")
 
     with col_d:
         del_prod = deliveries.merge(orders[['order_id','product_id']], on='order_id', how='left')
@@ -380,7 +380,7 @@ with tab1:
                             labels={'complaint_pct':'% of deliveries with complaints',
                                     'transit_bucket':'How long the delivery took'})
         fig_perish.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', height=360)
-        st.plotly_chart(fig_perish, use_container_width=True)
+        st.plotly_chart(fig_perish, width="stretch")
 
 # ════════════════════════════════════════════════════════
 # TAB 2 — PRICING
@@ -414,7 +414,7 @@ with tab2:
         fig_fee.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
         fig_fee.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                               showlegend=False, height=360)
-        st.plotly_chart(fig_fee, use_container_width=True)
+        st.plotly_chart(fig_fee, width="stretch")
 
     with col_b:
         fig_elast = px.bar(
@@ -429,7 +429,7 @@ with tab2:
         fig_elast.add_vline(x=0, line_dash='dash', line_color='gray', opacity=0.5)
         fig_elast.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                                 coloraxis_showscale=False, height=360)
-        st.plotly_chart(fig_elast, use_container_width=True)
+        st.plotly_chart(fig_elast, width="stretch")
 
     st.markdown("---")
     st.subheader("🧮 Bulk Discount Revenue Simulator")
@@ -498,7 +498,7 @@ with tab2:
                              'household_size':'Number of people in the household'})
     fig_hh.update_traces(line_color='#1D9E75', marker_color='#085041', marker_size=9)
     fig_hh.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', height=340)
-    st.plotly_chart(fig_hh, use_container_width=True)
+    st.plotly_chart(fig_hh, width="stretch")
 
 # ════════════════════════════════════════════════════════
 # TAB 3 — SELLER TRUST
@@ -531,7 +531,7 @@ with tab3:
         )
         fig_scatter.update_layout(plot_bgcolor='rgba(0,0,0,0)',
                                    paper_bgcolor='rgba(0,0,0,0)', height=400)
-        st.plotly_chart(fig_scatter, use_container_width=True)
+        st.plotly_chart(fig_scatter, width="stretch")
 
     with col_b:
         tier_counts = sellers['risk_tier'].value_counts().reset_index()
@@ -545,7 +545,7 @@ with tab3:
         )
         fig_tier.update_layout(plot_bgcolor='rgba(0,0,0,0)',
                                 paper_bgcolor='rgba(0,0,0,0)', height=400)
-        st.plotly_chart(fig_tier, use_container_width=True)
+        st.plotly_chart(fig_tier, width="stretch")
 
     st.markdown("---")
     st.subheader("🚨 Sellers That Need Attention")
@@ -574,7 +574,7 @@ with tab3:
               'risk_tier': 'Risk Tier',
               'is_suspicious': 'Flagged?'
           }),
-        use_container_width=True, height=360
+        width="stretch", height=360
     )
 
     csv = display_sellers.to_csv(index=False).encode('utf-8')
@@ -611,7 +611,7 @@ with tab3:
     fig_waste.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
     fig_waste.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                              coloraxis_showscale=False, height=360)
-    st.plotly_chart(fig_waste, use_container_width=True)
+    st.plotly_chart(fig_waste, width="stretch")
 
     st.markdown("---")
     st.subheader("🕐 When do customers try to return products? (P4)")
@@ -636,7 +636,7 @@ with tab3:
                 'period':'Time period'}
     )
     fig_hours.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', height=360)
-    st.plotly_chart(fig_hours, use_container_width=True)
+    st.plotly_chart(fig_hours, width="stretch")
 
     after_pct = returns_df['return_attempt_hour'].apply(lambda h: h < 9 or h >= 18).mean() * 100
     st.error(
