@@ -334,8 +334,7 @@ with tab1:
     st.dataframe(
         filtered[['product_id','category','stock_level','stockout_risk_score','risk_label']]
                   .sort_values('stockout_risk_score', ascending=False)
-                  .head(20)
-                  .style.background_gradient(subset=['stockout_risk_score'], cmap='RdYlGn_r'),
+                  .head(20),
         use_container_width=True, height=320
     )
 
@@ -574,8 +573,7 @@ with tab3:
               'anomaly_score': 'AI Risk Score',
               'risk_tier': 'Risk Tier',
               'is_suspicious': 'Flagged?'
-          })
-          .style.background_gradient(subset=['AI Risk Score'], cmap='RdYlGn_r'),
+          }),
         use_container_width=True, height=360
     )
 
