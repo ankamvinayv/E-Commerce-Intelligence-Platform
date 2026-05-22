@@ -1,0 +1,901 @@
+return_id,order_id,reason,return_attempt_hour,pickup_available
+RET00000,ORD009667,not as shown,15,True
+RET00001,ORD002256,color mismatch,6,True
+RET00002,ORD009533,quality issue,16,True
+RET00003,ORD009717,damaged,20,True
+RET00004,ORD003189,color mismatch,20,True
+RET00005,ORD003279,changed mind,13,False
+RET00006,ORD004940,wrong size,10,True
+RET00007,ORD002728,changed mind,13,True
+RET00008,ORD008847,wrong size,6,False
+RET00009,ORD009546,quality issue,23,False
+RET00010,ORD006225,color mismatch,15,True
+RET00011,ORD007809,changed mind,23,True
+RET00012,ORD006727,counterfeit suspected,0,True
+RET00013,ORD003036,changed mind,19,False
+RET00014,ORD004754,quality issue,21,False
+RET00015,ORD008296,wrong size,9,False
+RET00016,ORD009747,color mismatch,10,True
+RET00017,ORD001970,not as shown,14,False
+RET00018,ORD005718,quality issue,17,False
+RET00019,ORD001141,color mismatch,15,True
+RET00020,ORD000968,color mismatch,22,False
+RET00021,ORD007046,color mismatch,13,True
+RET00022,ORD000981,not as shown,20,False
+RET00023,ORD007242,not as shown,4,True
+RET00024,ORD009142,not as shown,14,True
+RET00025,ORD007747,wrong size,11,False
+RET00026,ORD007034,wrong size,20,False
+RET00027,ORD003811,wrong size,20,False
+RET00028,ORD007207,wrong size,15,False
+RET00029,ORD002788,quality issue,19,False
+RET00030,ORD002960,wrong size,10,False
+RET00031,ORD005943,quality issue,23,False
+RET00032,ORD008601,color mismatch,19,True
+RET00033,ORD004989,wrong size,15,False
+RET00034,ORD007021,wrong size,7,True
+RET00035,ORD000728,damaged,22,True
+RET00036,ORD004095,damaged,7,True
+RET00037,ORD006837,color mismatch,1,False
+RET00038,ORD003681,wrong size,3,True
+RET00039,ORD000615,quality issue,2,True
+RET00040,ORD000335,quality issue,22,True
+RET00041,ORD005087,not as shown,8,False
+RET00042,ORD000465,wrong size,15,True
+RET00043,ORD009997,not as shown,12,False
+RET00044,ORD006314,not as shown,12,False
+RET00045,ORD008904,not as shown,5,False
+RET00046,ORD006672,not as shown,19,True
+RET00047,ORD003180,changed mind,3,True
+RET00048,ORD002365,damaged,18,True
+RET00049,ORD003651,color mismatch,21,False
+RET00050,ORD006959,counterfeit suspected,11,True
+RET00051,ORD006002,quality issue,2,True
+RET00052,ORD009792,wrong size,20,False
+RET00053,ORD009501,not as shown,4,True
+RET00054,ORD007056,quality issue,4,True
+RET00055,ORD006395,changed mind,10,False
+RET00056,ORD004721,color mismatch,22,False
+RET00057,ORD001905,wrong size,13,True
+RET00058,ORD003869,changed mind,20,True
+RET00059,ORD006966,counterfeit suspected,16,True
+RET00060,ORD007882,changed mind,6,False
+RET00061,ORD002504,color mismatch,6,True
+RET00062,ORD009162,wrong size,2,False
+RET00063,ORD000508,changed mind,5,False
+RET00064,ORD009532,damaged,13,True
+RET00065,ORD000517,counterfeit suspected,20,True
+RET00066,ORD002930,wrong size,16,True
+RET00067,ORD002724,not as shown,6,True
+RET00068,ORD002023,damaged,19,False
+RET00069,ORD004214,color mismatch,1,True
+RET00070,ORD005688,quality issue,17,False
+RET00071,ORD009955,wrong size,7,False
+RET00072,ORD007116,wrong size,12,True
+RET00073,ORD002798,counterfeit suspected,18,False
+RET00074,ORD002789,counterfeit suspected,5,False
+RET00075,ORD009457,color mismatch,23,True
+RET00076,ORD006793,counterfeit suspected,22,False
+RET00077,ORD008486,quality issue,18,True
+RET00078,ORD007042,color mismatch,17,True
+RET00079,ORD008890,damaged,23,True
+RET00080,ORD000357,damaged,6,True
+RET00081,ORD009965,not as shown,1,False
+RET00082,ORD004627,damaged,20,True
+RET00083,ORD005611,counterfeit suspected,4,True
+RET00084,ORD008510,changed mind,9,True
+RET00085,ORD003954,not as shown,17,True
+RET00086,ORD004310,wrong size,7,True
+RET00087,ORD005623,quality issue,10,False
+RET00088,ORD002340,wrong size,15,True
+RET00089,ORD005193,wrong size,1,False
+RET00090,ORD006335,changed mind,22,True
+RET00091,ORD004070,color mismatch,21,True
+RET00092,ORD006445,damaged,22,True
+RET00093,ORD003611,damaged,8,True
+RET00094,ORD007332,quality issue,20,True
+RET00095,ORD003364,wrong size,22,False
+RET00096,ORD006533,damaged,13,True
+RET00097,ORD002260,changed mind,19,False
+RET00098,ORD003726,damaged,19,False
+RET00099,ORD003885,not as shown,8,False
+RET00100,ORD002543,not as shown,6,False
+RET00101,ORD002252,color mismatch,23,False
+RET00102,ORD005083,counterfeit suspected,8,False
+RET00103,ORD009100,not as shown,10,True
+RET00104,ORD003013,color mismatch,6,False
+RET00105,ORD007800,wrong size,4,False
+RET00106,ORD001260,color mismatch,3,True
+RET00107,ORD005475,damaged,10,True
+RET00108,ORD004939,changed mind,3,True
+RET00109,ORD005076,color mismatch,22,True
+RET00110,ORD008842,color mismatch,16,True
+RET00111,ORD007791,counterfeit suspected,16,False
+RET00112,ORD009474,damaged,7,True
+RET00113,ORD001012,wrong size,5,True
+RET00114,ORD003204,changed mind,16,True
+RET00115,ORD005567,color mismatch,10,True
+RET00116,ORD004577,damaged,20,False
+RET00117,ORD007249,not as shown,11,True
+RET00118,ORD003516,quality issue,7,False
+RET00119,ORD008927,wrong size,0,True
+RET00120,ORD007957,counterfeit suspected,7,True
+RET00121,ORD003896,not as shown,18,True
+RET00122,ORD001713,wrong size,18,True
+RET00123,ORD009019,quality issue,3,True
+RET00124,ORD003813,wrong size,23,True
+RET00125,ORD003833,quality issue,7,False
+RET00126,ORD002868,wrong size,17,True
+RET00127,ORD002553,color mismatch,1,False
+RET00128,ORD009695,counterfeit suspected,20,True
+RET00129,ORD008112,color mismatch,0,False
+RET00130,ORD007685,not as shown,7,True
+RET00131,ORD008254,color mismatch,8,True
+RET00132,ORD008360,not as shown,19,False
+RET00133,ORD001879,damaged,7,False
+RET00134,ORD009234,wrong size,14,True
+RET00135,ORD000829,counterfeit suspected,13,True
+RET00136,ORD003853,changed mind,1,False
+RET00137,ORD007897,quality issue,10,False
+RET00138,ORD000366,counterfeit suspected,6,False
+RET00139,ORD002472,wrong size,20,True
+RET00140,ORD003372,quality issue,13,False
+RET00141,ORD004924,color mismatch,9,False
+RET00142,ORD000135,changed mind,13,True
+RET00143,ORD002892,damaged,18,False
+RET00144,ORD005202,not as shown,18,False
+RET00145,ORD007209,wrong size,16,False
+RET00146,ORD005490,color mismatch,0,False
+RET00147,ORD009964,quality issue,10,True
+RET00148,ORD009215,color mismatch,23,True
+RET00149,ORD003307,color mismatch,9,True
+RET00150,ORD004105,changed mind,15,True
+RET00151,ORD000432,counterfeit suspected,4,False
+RET00152,ORD007367,wrong size,7,True
+RET00153,ORD001036,wrong size,3,True
+RET00154,ORD007564,wrong size,6,False
+RET00155,ORD005737,damaged,9,False
+RET00156,ORD009766,not as shown,10,False
+RET00157,ORD002030,wrong size,20,True
+RET00158,ORD000734,changed mind,3,True
+RET00159,ORD002813,color mismatch,14,False
+RET00160,ORD008828,damaged,10,True
+RET00161,ORD000725,changed mind,12,True
+RET00162,ORD003097,changed mind,20,True
+RET00163,ORD000658,not as shown,3,True
+RET00164,ORD004701,color mismatch,15,True
+RET00165,ORD008996,changed mind,18,True
+RET00166,ORD002460,damaged,7,True
+RET00167,ORD004380,counterfeit suspected,21,False
+RET00168,ORD003392,changed mind,16,True
+RET00169,ORD007803,color mismatch,9,False
+RET00170,ORD001797,color mismatch,21,True
+RET00171,ORD009212,color mismatch,23,False
+RET00172,ORD001024,changed mind,15,False
+RET00173,ORD009362,not as shown,3,False
+RET00174,ORD002680,color mismatch,17,True
+RET00175,ORD004646,quality issue,19,False
+RET00176,ORD004751,quality issue,6,True
+RET00177,ORD009447,quality issue,9,True
+RET00178,ORD005543,color mismatch,12,False
+RET00179,ORD006146,counterfeit suspected,15,True
+RET00180,ORD001061,damaged,22,True
+RET00181,ORD002247,changed mind,13,True
+RET00182,ORD004473,not as shown,12,False
+RET00183,ORD003945,not as shown,1,False
+RET00184,ORD006817,damaged,2,True
+RET00185,ORD007741,not as shown,22,False
+RET00186,ORD009739,damaged,20,False
+RET00187,ORD003761,not as shown,7,True
+RET00188,ORD004561,quality issue,6,True
+RET00189,ORD005102,changed mind,3,True
+RET00190,ORD002008,quality issue,3,False
+RET00191,ORD003931,counterfeit suspected,23,True
+RET00192,ORD006329,not as shown,15,True
+RET00193,ORD004542,color mismatch,15,True
+RET00194,ORD002713,wrong size,8,False
+RET00195,ORD002463,changed mind,7,False
+RET00196,ORD007745,color mismatch,13,True
+RET00197,ORD004694,color mismatch,20,True
+RET00198,ORD007959,damaged,16,True
+RET00199,ORD007423,not as shown,5,False
+RET00200,ORD001949,not as shown,2,True
+RET00201,ORD008670,wrong size,19,False
+RET00202,ORD002669,color mismatch,12,True
+RET00203,ORD003699,quality issue,9,True
+RET00204,ORD003065,counterfeit suspected,0,True
+RET00205,ORD001082,quality issue,20,False
+RET00206,ORD003597,wrong size,23,True
+RET00207,ORD005106,quality issue,17,True
+RET00208,ORD003276,color mismatch,5,True
+RET00209,ORD006811,changed mind,9,True
+RET00210,ORD005539,quality issue,7,False
+RET00211,ORD003226,not as shown,7,True
+RET00212,ORD002085,not as shown,13,False
+RET00213,ORD002826,color mismatch,14,False
+RET00214,ORD001523,wrong size,6,False
+RET00215,ORD009635,wrong size,10,True
+RET00216,ORD005745,wrong size,22,True
+RET00217,ORD000321,damaged,21,True
+RET00218,ORD001472,not as shown,5,False
+RET00219,ORD008621,color mismatch,19,True
+RET00220,ORD005199,color mismatch,23,True
+RET00221,ORD001067,wrong size,10,True
+RET00222,ORD009742,color mismatch,14,True
+RET00223,ORD004948,color mismatch,17,True
+RET00224,ORD004139,counterfeit suspected,9,False
+RET00225,ORD004138,wrong size,17,False
+RET00226,ORD002947,color mismatch,13,True
+RET00227,ORD004991,changed mind,8,True
+RET00228,ORD003037,counterfeit suspected,23,False
+RET00229,ORD006218,counterfeit suspected,4,True
+RET00230,ORD009885,wrong size,18,False
+RET00231,ORD001494,quality issue,19,True
+RET00232,ORD005154,quality issue,18,True
+RET00233,ORD007387,wrong size,14,True
+RET00234,ORD009776,wrong size,20,True
+RET00235,ORD009478,quality issue,7,True
+RET00236,ORD006176,changed mind,18,True
+RET00237,ORD006145,quality issue,3,False
+RET00238,ORD008569,damaged,19,True
+RET00239,ORD002097,not as shown,20,True
+RET00240,ORD004175,counterfeit suspected,3,True
+RET00241,ORD007323,color mismatch,5,False
+RET00242,ORD006758,wrong size,21,True
+RET00243,ORD004613,wrong size,5,True
+RET00244,ORD006189,color mismatch,4,True
+RET00245,ORD004465,counterfeit suspected,6,False
+RET00246,ORD003997,not as shown,12,False
+RET00247,ORD009581,not as shown,14,False
+RET00248,ORD003320,wrong size,18,True
+RET00249,ORD005235,color mismatch,23,True
+RET00250,ORD008169,color mismatch,2,True
+RET00251,ORD007109,damaged,15,True
+RET00252,ORD004083,not as shown,13,True
+RET00253,ORD002715,not as shown,2,False
+RET00254,ORD002968,wrong size,3,True
+RET00255,ORD004851,color mismatch,17,True
+RET00256,ORD000039,color mismatch,15,True
+RET00257,ORD006777,counterfeit suspected,21,False
+RET00258,ORD002679,damaged,7,True
+RET00259,ORD006968,changed mind,9,False
+RET00260,ORD002534,wrong size,10,False
+RET00261,ORD008390,counterfeit suspected,14,True
+RET00262,ORD005621,wrong size,10,True
+RET00263,ORD002001,not as shown,8,True
+RET00264,ORD002431,not as shown,19,True
+RET00265,ORD005934,color mismatch,3,False
+RET00266,ORD002571,damaged,0,True
+RET00267,ORD000762,quality issue,17,False
+RET00268,ORD002317,not as shown,3,True
+RET00269,ORD001632,not as shown,6,True
+RET00270,ORD006611,counterfeit suspected,13,True
+RET00271,ORD001621,not as shown,7,False
+RET00272,ORD000307,not as shown,17,True
+RET00273,ORD001896,not as shown,5,True
+RET00274,ORD006332,wrong size,16,False
+RET00275,ORD008200,color mismatch,6,False
+RET00276,ORD005756,quality issue,17,False
+RET00277,ORD006709,color mismatch,5,True
+RET00278,ORD009946,color mismatch,18,True
+RET00279,ORD005054,not as shown,8,True
+RET00280,ORD006822,counterfeit suspected,3,True
+RET00281,ORD009721,not as shown,12,True
+RET00282,ORD000761,not as shown,1,False
+RET00283,ORD007228,wrong size,13,False
+RET00284,ORD002384,damaged,17,True
+RET00285,ORD005179,wrong size,23,True
+RET00286,ORD000640,color mismatch,17,True
+RET00287,ORD009951,counterfeit suspected,9,True
+RET00288,ORD007450,changed mind,1,False
+RET00289,ORD004988,wrong size,10,True
+RET00290,ORD002249,color mismatch,22,True
+RET00291,ORD001495,quality issue,0,True
+RET00292,ORD004612,damaged,16,False
+RET00293,ORD007301,wrong size,21,False
+RET00294,ORD000328,color mismatch,23,True
+RET00295,ORD000617,not as shown,9,False
+RET00296,ORD001315,not as shown,7,True
+RET00297,ORD005112,wrong size,22,True
+RET00298,ORD008934,quality issue,19,True
+RET00299,ORD002465,damaged,21,False
+RET00300,ORD007904,color mismatch,19,False
+RET00301,ORD002777,color mismatch,15,True
+RET00302,ORD006292,wrong size,23,False
+RET00303,ORD009639,quality issue,23,True
+RET00304,ORD006414,changed mind,21,True
+RET00305,ORD009332,not as shown,22,False
+RET00306,ORD002972,wrong size,16,False
+RET00307,ORD000781,color mismatch,1,False
+RET00308,ORD004388,damaged,9,False
+RET00309,ORD008384,damaged,4,False
+RET00310,ORD000670,quality issue,3,False
+RET00311,ORD004019,wrong size,4,True
+RET00312,ORD008750,not as shown,20,True
+RET00313,ORD006575,damaged,14,False
+RET00314,ORD005476,color mismatch,2,True
+RET00315,ORD003917,damaged,14,True
+RET00316,ORD005962,color mismatch,14,True
+RET00317,ORD008315,color mismatch,21,False
+RET00318,ORD003577,damaged,0,True
+RET00319,ORD007129,wrong size,19,True
+RET00320,ORD006630,color mismatch,9,False
+RET00321,ORD002698,counterfeit suspected,19,True
+RET00322,ORD008911,not as shown,15,True
+RET00323,ORD006762,color mismatch,0,True
+RET00324,ORD006337,not as shown,11,False
+RET00325,ORD008311,not as shown,8,True
+RET00326,ORD003694,not as shown,23,True
+RET00327,ORD004803,color mismatch,10,True
+RET00328,ORD007163,quality issue,17,True
+RET00329,ORD006697,damaged,1,False
+RET00330,ORD005721,changed mind,19,True
+RET00331,ORD009723,not as shown,21,False
+RET00332,ORD005147,changed mind,18,True
+RET00333,ORD001849,color mismatch,6,True
+RET00334,ORD002208,color mismatch,0,True
+RET00335,ORD008498,counterfeit suspected,3,True
+RET00336,ORD008998,changed mind,2,True
+RET00337,ORD006352,counterfeit suspected,3,True
+RET00338,ORD006591,quality issue,10,True
+RET00339,ORD005001,counterfeit suspected,21,True
+RET00340,ORD009540,color mismatch,18,False
+RET00341,ORD000684,color mismatch,8,False
+RET00342,ORD005505,changed mind,9,True
+RET00343,ORD006733,color mismatch,8,True
+RET00344,ORD003035,color mismatch,19,False
+RET00345,ORD002328,damaged,8,False
+RET00346,ORD002212,not as shown,17,True
+RET00347,ORD007304,damaged,12,False
+RET00348,ORD002714,changed mind,3,False
+RET00349,ORD004101,wrong size,9,False
+RET00350,ORD008698,not as shown,3,True
+RET00351,ORD004860,color mismatch,10,True
+RET00352,ORD009402,quality issue,9,False
+RET00353,ORD000349,color mismatch,18,False
+RET00354,ORD001812,changed mind,17,False
+RET00355,ORD006249,changed mind,12,False
+RET00356,ORD003347,quality issue,23,True
+RET00357,ORD004294,damaged,4,True
+RET00358,ORD004116,color mismatch,10,False
+RET00359,ORD007296,color mismatch,5,True
+RET00360,ORD002533,not as shown,18,True
+RET00361,ORD008114,not as shown,19,True
+RET00362,ORD000404,changed mind,1,False
+RET00363,ORD005046,damaged,18,False
+RET00364,ORD005563,counterfeit suspected,4,True
+RET00365,ORD000699,counterfeit suspected,10,True
+RET00366,ORD007991,color mismatch,10,False
+RET00367,ORD008319,counterfeit suspected,12,True
+RET00368,ORD008014,color mismatch,19,False
+RET00369,ORD007023,wrong size,9,True
+RET00370,ORD008418,not as shown,9,True
+RET00371,ORD000320,quality issue,1,True
+RET00372,ORD000388,not as shown,17,True
+RET00373,ORD000951,color mismatch,21,False
+RET00374,ORD003538,color mismatch,8,False
+RET00375,ORD000592,counterfeit suspected,12,False
+RET00376,ORD004402,not as shown,6,False
+RET00377,ORD009021,wrong size,23,True
+RET00378,ORD007238,quality issue,3,False
+RET00379,ORD005978,not as shown,15,True
+RET00380,ORD008966,damaged,1,False
+RET00381,ORD002387,quality issue,22,True
+RET00382,ORD006580,color mismatch,0,True
+RET00383,ORD001543,not as shown,16,False
+RET00384,ORD001222,wrong size,4,False
+RET00385,ORD009872,damaged,18,True
+RET00386,ORD000400,damaged,21,True
+RET00387,ORD006264,color mismatch,3,False
+RET00388,ORD002186,wrong size,6,True
+RET00389,ORD002002,wrong size,0,False
+RET00390,ORD005908,quality issue,5,False
+RET00391,ORD008098,color mismatch,1,True
+RET00392,ORD005829,quality issue,18,True
+RET00393,ORD007324,wrong size,14,True
+RET00394,ORD000204,quality issue,15,False
+RET00395,ORD009134,changed mind,20,False
+RET00396,ORD008636,not as shown,21,False
+RET00397,ORD003437,wrong size,0,True
+RET00398,ORD009829,wrong size,20,False
+RET00399,ORD004118,not as shown,2,False
+RET00400,ORD008497,color mismatch,7,True
+RET00401,ORD009130,quality issue,18,True
+RET00402,ORD005730,damaged,19,False
+RET00403,ORD005169,quality issue,9,True
+RET00404,ORD001626,color mismatch,14,True
+RET00405,ORD008074,counterfeit suspected,3,False
+RET00406,ORD005667,damaged,19,True
+RET00407,ORD000915,not as shown,8,False
+RET00408,ORD000417,wrong size,19,False
+RET00409,ORD000984,not as shown,12,False
+RET00410,ORD002335,counterfeit suspected,21,True
+RET00411,ORD002924,counterfeit suspected,4,False
+RET00412,ORD006317,wrong size,13,True
+RET00413,ORD000226,damaged,21,False
+RET00414,ORD005977,counterfeit suspected,7,False
+RET00415,ORD007582,color mismatch,11,True
+RET00416,ORD009050,not as shown,17,False
+RET00417,ORD004587,counterfeit suspected,0,True
+RET00418,ORD008858,counterfeit suspected,13,True
+RET00419,ORD009583,quality issue,1,True
+RET00420,ORD004320,not as shown,3,False
+RET00421,ORD000971,wrong size,13,True
+RET00422,ORD004564,not as shown,21,False
+RET00423,ORD001388,counterfeit suspected,15,False
+RET00424,ORD003173,color mismatch,15,True
+RET00425,ORD001660,quality issue,20,True
+RET00426,ORD000362,not as shown,15,True
+RET00427,ORD002207,wrong size,3,True
+RET00428,ORD008196,wrong size,23,True
+RET00429,ORD007460,counterfeit suspected,15,True
+RET00430,ORD005909,changed mind,2,False
+RET00431,ORD000403,damaged,0,True
+RET00432,ORD009462,changed mind,6,True
+RET00433,ORD005220,color mismatch,11,True
+RET00434,ORD009379,counterfeit suspected,15,False
+RET00435,ORD007708,changed mind,3,True
+RET00436,ORD005346,color mismatch,0,False
+RET00437,ORD005100,not as shown,15,True
+RET00438,ORD003777,color mismatch,8,True
+RET00439,ORD000363,wrong size,18,True
+RET00440,ORD008623,counterfeit suspected,3,True
+RET00441,ORD003063,changed mind,3,True
+RET00442,ORD008539,wrong size,16,True
+RET00443,ORD002591,not as shown,19,False
+RET00444,ORD007714,changed mind,1,True
+RET00445,ORD009919,color mismatch,15,False
+RET00446,ORD005647,damaged,19,True
+RET00447,ORD009596,quality issue,22,True
+RET00448,ORD003322,wrong size,23,False
+RET00449,ORD002477,not as shown,22,False
+RET00450,ORD004937,color mismatch,16,True
+RET00451,ORD006547,not as shown,3,True
+RET00452,ORD001403,wrong size,22,False
+RET00453,ORD003184,wrong size,21,True
+RET00454,ORD008780,wrong size,5,True
+RET00455,ORD005792,color mismatch,21,True
+RET00456,ORD007267,wrong size,21,False
+RET00457,ORD009472,color mismatch,5,False
+RET00458,ORD007349,color mismatch,21,False
+RET00459,ORD002318,color mismatch,12,True
+RET00460,ORD008146,wrong size,23,False
+RET00461,ORD000281,color mismatch,17,True
+RET00462,ORD000305,color mismatch,0,True
+RET00463,ORD008659,quality issue,21,True
+RET00464,ORD003240,color mismatch,6,False
+RET00465,ORD002003,color mismatch,8,True
+RET00466,ORD003560,not as shown,2,False
+RET00467,ORD009155,quality issue,16,False
+RET00468,ORD000575,not as shown,21,True
+RET00469,ORD002343,quality issue,4,True
+RET00470,ORD004257,quality issue,3,False
+RET00471,ORD005757,quality issue,13,True
+RET00472,ORD003168,counterfeit suspected,9,True
+RET00473,ORD006148,quality issue,9,True
+RET00474,ORD006386,not as shown,22,True
+RET00475,ORD001785,quality issue,4,False
+RET00476,ORD007496,not as shown,10,True
+RET00477,ORD004522,color mismatch,11,False
+RET00478,ORD009132,wrong size,19,True
+RET00479,ORD003132,not as shown,9,True
+RET00480,ORD008585,changed mind,11,True
+RET00481,ORD006431,color mismatch,9,True
+RET00482,ORD008471,wrong size,7,True
+RET00483,ORD006720,changed mind,19,True
+RET00484,ORD003686,wrong size,19,False
+RET00485,ORD006418,counterfeit suspected,9,True
+RET00486,ORD000245,not as shown,15,True
+RET00487,ORD005125,color mismatch,14,False
+RET00488,ORD009166,color mismatch,11,False
+RET00489,ORD006488,not as shown,7,True
+RET00490,ORD006930,damaged,22,False
+RET00491,ORD000841,counterfeit suspected,16,False
+RET00492,ORD000153,color mismatch,3,True
+RET00493,ORD000784,damaged,0,True
+RET00494,ORD000522,quality issue,4,True
+RET00495,ORD003984,not as shown,19,True
+RET00496,ORD003064,wrong size,6,True
+RET00497,ORD007837,quality issue,7,True
+RET00498,ORD007899,wrong size,0,False
+RET00499,ORD001841,not as shown,4,False
+RET00500,ORD004964,wrong size,6,False
+RET00501,ORD006849,wrong size,2,False
+RET00502,ORD006136,color mismatch,7,True
+RET00503,ORD006092,not as shown,20,True
+RET00504,ORD007875,wrong size,2,True
+RET00505,ORD008020,counterfeit suspected,18,True
+RET00506,ORD002683,color mismatch,15,False
+RET00507,ORD003418,not as shown,2,False
+RET00508,ORD002382,wrong size,1,False
+RET00509,ORD000603,damaged,15,False
+RET00510,ORD001150,not as shown,16,True
+RET00511,ORD006391,changed mind,14,False
+RET00512,ORD001777,not as shown,13,True
+RET00513,ORD007848,changed mind,0,True
+RET00514,ORD009666,counterfeit suspected,6,False
+RET00515,ORD009049,not as shown,22,False
+RET00516,ORD006939,color mismatch,11,False
+RET00517,ORD004790,color mismatch,17,True
+RET00518,ORD002271,quality issue,19,False
+RET00519,ORD001982,changed mind,7,True
+RET00520,ORD008022,color mismatch,12,True
+RET00521,ORD001109,damaged,5,True
+RET00522,ORD006773,not as shown,19,True
+RET00523,ORD008888,color mismatch,9,True
+RET00524,ORD002801,color mismatch,12,True
+RET00525,ORD008800,color mismatch,18,False
+RET00526,ORD009454,color mismatch,1,True
+RET00527,ORD004813,damaged,12,False
+RET00528,ORD009230,color mismatch,12,True
+RET00529,ORD006682,not as shown,19,True
+RET00530,ORD004907,damaged,19,True
+RET00531,ORD005528,changed mind,12,True
+RET00532,ORD005477,changed mind,12,True
+RET00533,ORD000189,color mismatch,11,False
+RET00534,ORD006515,counterfeit suspected,16,True
+RET00535,ORD009404,counterfeit suspected,23,False
+RET00536,ORD001957,wrong size,7,True
+RET00537,ORD000703,counterfeit suspected,5,True
+RET00538,ORD007908,not as shown,20,False
+RET00539,ORD003508,color mismatch,0,True
+RET00540,ORD006213,changed mind,23,True
+RET00541,ORD007670,color mismatch,22,False
+RET00542,ORD007479,color mismatch,15,False
+RET00543,ORD003760,color mismatch,2,True
+RET00544,ORD005976,not as shown,22,True
+RET00545,ORD000635,color mismatch,22,True
+RET00546,ORD008015,not as shown,17,False
+RET00547,ORD003312,damaged,9,False
+RET00548,ORD005867,changed mind,11,True
+RET00549,ORD006683,quality issue,12,True
+RET00550,ORD006746,changed mind,18,False
+RET00551,ORD003837,changed mind,6,True
+RET00552,ORD001530,not as shown,12,True
+RET00553,ORD007580,color mismatch,14,True
+RET00554,ORD007351,counterfeit suspected,8,True
+RET00555,ORD005512,wrong size,11,False
+RET00556,ORD001971,quality issue,5,True
+RET00557,ORD001839,not as shown,19,True
+RET00558,ORD000729,changed mind,9,True
+RET00559,ORD006612,not as shown,19,True
+RET00560,ORD006308,color mismatch,11,True
+RET00561,ORD001362,counterfeit suspected,23,False
+RET00562,ORD002978,not as shown,7,True
+RET00563,ORD005590,counterfeit suspected,8,True
+RET00564,ORD008504,not as shown,3,False
+RET00565,ORD000260,color mismatch,20,False
+RET00566,ORD000180,wrong size,7,True
+RET00567,ORD004570,not as shown,23,True
+RET00568,ORD003491,color mismatch,2,False
+RET00569,ORD002712,wrong size,20,True
+RET00570,ORD009863,color mismatch,9,True
+RET00571,ORD004406,color mismatch,17,False
+RET00572,ORD002040,changed mind,5,True
+RET00573,ORD003958,not as shown,4,True
+RET00574,ORD003747,changed mind,23,True
+RET00575,ORD003357,damaged,17,False
+RET00576,ORD002810,quality issue,22,False
+RET00577,ORD009269,color mismatch,4,False
+RET00578,ORD009661,color mismatch,20,True
+RET00579,ORD006963,color mismatch,20,True
+RET00580,ORD009823,counterfeit suspected,20,True
+RET00581,ORD008007,quality issue,15,True
+RET00582,ORD001377,quality issue,0,False
+RET00583,ORD003051,not as shown,7,True
+RET00584,ORD001298,wrong size,1,True
+RET00585,ORD005070,quality issue,13,True
+RET00586,ORD004186,wrong size,22,True
+RET00587,ORD003567,damaged,20,True
+RET00588,ORD009884,wrong size,3,True
+RET00589,ORD007427,damaged,17,False
+RET00590,ORD008395,color mismatch,10,True
+RET00591,ORD009093,counterfeit suspected,19,False
+RET00592,ORD000579,color mismatch,21,True
+RET00593,ORD009618,changed mind,20,True
+RET00594,ORD005283,damaged,18,False
+RET00595,ORD009954,color mismatch,14,True
+RET00596,ORD009797,counterfeit suspected,2,True
+RET00597,ORD003235,wrong size,12,True
+RET00598,ORD006897,not as shown,4,True
+RET00599,ORD004115,counterfeit suspected,3,False
+RET00600,ORD008786,wrong size,14,False
+RET00601,ORD009925,wrong size,23,True
+RET00602,ORD000257,counterfeit suspected,0,True
+RET00603,ORD007310,color mismatch,9,True
+RET00604,ORD006568,not as shown,2,True
+RET00605,ORD001100,counterfeit suspected,4,False
+RET00606,ORD009897,wrong size,19,False
+RET00607,ORD003244,quality issue,15,True
+RET00608,ORD000922,damaged,12,True
+RET00609,ORD008392,wrong size,16,False
+RET00610,ORD003440,damaged,4,False
+RET00611,ORD002076,counterfeit suspected,16,False
+RET00612,ORD003299,damaged,12,True
+RET00613,ORD005889,color mismatch,7,True
+RET00614,ORD000889,counterfeit suspected,14,False
+RET00615,ORD005443,not as shown,11,False
+RET00616,ORD007651,damaged,5,False
+RET00617,ORD005136,damaged,6,False
+RET00618,ORD009299,quality issue,12,True
+RET00619,ORD002833,changed mind,23,True
+RET00620,ORD004618,wrong size,16,True
+RET00621,ORD008924,changed mind,17,False
+RET00622,ORD004558,wrong size,17,True
+RET00623,ORD002292,damaged,2,True
+RET00624,ORD004764,color mismatch,4,True
+RET00625,ORD007069,wrong size,12,False
+RET00626,ORD005143,quality issue,12,False
+RET00627,ORD005651,not as shown,5,True
+RET00628,ORD007757,not as shown,12,False
+RET00629,ORD002552,not as shown,14,True
+RET00630,ORD002197,wrong size,18,False
+RET00631,ORD008194,color mismatch,5,False
+RET00632,ORD005237,damaged,5,False
+RET00633,ORD007322,changed mind,9,True
+RET00634,ORD001737,damaged,2,False
+RET00635,ORD002389,changed mind,19,False
+RET00636,ORD005217,wrong size,19,False
+RET00637,ORD003380,changed mind,16,False
+RET00638,ORD006268,quality issue,12,True
+RET00639,ORD008962,not as shown,15,True
+RET00640,ORD003749,changed mind,16,False
+RET00641,ORD001224,quality issue,3,True
+RET00642,ORD002758,color mismatch,7,False
+RET00643,ORD002378,damaged,8,False
+RET00644,ORD007517,damaged,21,False
+RET00645,ORD008551,wrong size,11,False
+RET00646,ORD003607,quality issue,11,True
+RET00647,ORD005023,changed mind,18,False
+RET00648,ORD002165,not as shown,0,True
+RET00649,ORD002964,not as shown,3,True
+RET00650,ORD006673,quality issue,1,True
+RET00651,ORD000521,not as shown,6,True
+RET00652,ORD007744,color mismatch,2,True
+RET00653,ORD005424,color mismatch,7,True
+RET00654,ORD001616,quality issue,8,True
+RET00655,ORD001267,color mismatch,19,False
+RET00656,ORD008968,changed mind,20,True
+RET00657,ORD004485,wrong size,20,True
+RET00658,ORD000642,color mismatch,23,True
+RET00659,ORD001372,damaged,0,True
+RET00660,ORD000183,wrong size,21,True
+RET00661,ORD002831,damaged,10,True
+RET00662,ORD008166,not as shown,1,True
+RET00663,ORD002480,quality issue,8,False
+RET00664,ORD004800,counterfeit suspected,6,True
+RET00665,ORD003483,quality issue,14,True
+RET00666,ORD006743,color mismatch,15,False
+RET00667,ORD004801,not as shown,11,True
+RET00668,ORD001356,not as shown,9,True
+RET00669,ORD002674,wrong size,8,False
+RET00670,ORD005819,damaged,15,True
+RET00671,ORD005059,quality issue,11,True
+RET00672,ORD006250,wrong size,9,True
+RET00673,ORD007219,wrong size,19,False
+RET00674,ORD000882,not as shown,20,True
+RET00675,ORD008372,quality issue,12,False
+RET00676,ORD002799,color mismatch,12,True
+RET00677,ORD001177,quality issue,22,True
+RET00678,ORD005795,damaged,18,False
+RET00679,ORD009651,color mismatch,12,False
+RET00680,ORD009107,wrong size,23,False
+RET00681,ORD002928,counterfeit suspected,22,True
+RET00682,ORD004167,counterfeit suspected,21,True
+RET00683,ORD008307,color mismatch,23,False
+RET00684,ORD008605,not as shown,17,False
+RET00685,ORD005548,not as shown,20,False
+RET00686,ORD009099,damaged,12,True
+RET00687,ORD008193,color mismatch,8,True
+RET00688,ORD004235,wrong size,23,True
+RET00689,ORD007075,color mismatch,16,True
+RET00690,ORD009370,color mismatch,9,True
+RET00691,ORD006764,quality issue,14,True
+RET00692,ORD001956,not as shown,7,False
+RET00693,ORD000698,color mismatch,17,False
+RET00694,ORD008368,color mismatch,13,False
+RET00695,ORD009611,damaged,15,False
+RET00696,ORD008708,wrong size,6,False
+RET00697,ORD008130,damaged,16,False
+RET00698,ORD001120,changed mind,13,True
+RET00699,ORD005964,damaged,2,False
+RET00700,ORD006094,changed mind,22,True
+RET00701,ORD001417,color mismatch,9,False
+RET00702,ORD009736,not as shown,0,True
+RET00703,ORD006988,quality issue,10,False
+RET00704,ORD004174,color mismatch,8,True
+RET00705,ORD009640,wrong size,3,True
+RET00706,ORD005717,damaged,4,False
+RET00707,ORD000435,damaged,18,True
+RET00708,ORD002220,not as shown,10,True
+RET00709,ORD000450,changed mind,5,False
+RET00710,ORD003867,counterfeit suspected,22,True
+RET00711,ORD008656,not as shown,23,False
+RET00712,ORD001950,changed mind,11,False
+RET00713,ORD008530,not as shown,12,True
+RET00714,ORD005331,counterfeit suspected,16,False
+RET00715,ORD004545,not as shown,0,True
+RET00716,ORD004749,counterfeit suspected,21,True
+RET00717,ORD004758,quality issue,5,False
+RET00718,ORD002421,not as shown,16,False
+RET00719,ORD002829,color mismatch,23,True
+RET00720,ORD003765,not as shown,9,False
+RET00721,ORD000123,damaged,6,False
+RET00722,ORD005791,counterfeit suspected,15,False
+RET00723,ORD007268,damaged,6,False
+RET00724,ORD000287,wrong size,12,False
+RET00725,ORD008361,changed mind,3,True
+RET00726,ORD002732,wrong size,14,True
+RET00727,ORD000952,damaged,20,False
+RET00728,ORD002356,counterfeit suspected,23,False
+RET00729,ORD007910,damaged,15,True
+RET00730,ORD001542,damaged,8,False
+RET00731,ORD003346,color mismatch,3,False
+RET00732,ORD006149,wrong size,15,True
+RET00733,ORD006231,quality issue,9,True
+RET00734,ORD005260,not as shown,9,False
+RET00735,ORD002678,counterfeit suspected,8,False
+RET00736,ORD007467,quality issue,18,False
+RET00737,ORD000533,counterfeit suspected,19,False
+RET00738,ORD000242,not as shown,12,True
+RET00739,ORD002502,damaged,13,False
+RET00740,ORD000557,color mismatch,4,True
+RET00741,ORD006151,damaged,5,True
+RET00742,ORD009989,color mismatch,9,True
+RET00743,ORD003953,wrong size,5,True
+RET00744,ORD005254,damaged,9,True
+RET00745,ORD006544,damaged,0,False
+RET00746,ORD007883,wrong size,15,False
+RET00747,ORD008089,quality issue,19,True
+RET00748,ORD006784,wrong size,6,True
+RET00749,ORD002845,damaged,7,False
+RET00750,ORD003924,damaged,13,True
+RET00751,ORD001510,not as shown,7,False
+RET00752,ORD006965,not as shown,21,True
+RET00753,ORD009444,wrong size,2,True
+RET00754,ORD003381,changed mind,3,True
+RET00755,ORD000383,color mismatch,19,True
+RET00756,ORD004470,counterfeit suspected,12,False
+RET00757,ORD000707,wrong size,5,False
+RET00758,ORD000217,color mismatch,3,True
+RET00759,ORD006519,not as shown,20,False
+RET00760,ORD008445,wrong size,21,False
+RET00761,ORD004378,wrong size,10,True
+RET00762,ORD000956,not as shown,18,False
+RET00763,ORD001886,not as shown,18,False
+RET00764,ORD003905,damaged,22,True
+RET00765,ORD008861,counterfeit suspected,16,True
+RET00766,ORD007214,color mismatch,3,False
+RET00767,ORD002757,wrong size,18,True
+RET00768,ORD007259,quality issue,20,True
+RET00769,ORD004869,color mismatch,17,True
+RET00770,ORD007590,changed mind,9,True
+RET00771,ORD007601,color mismatch,8,False
+RET00772,ORD007283,not as shown,4,True
+RET00773,ORD000073,changed mind,13,False
+RET00774,ORD007251,not as shown,9,False
+RET00775,ORD001554,wrong size,3,True
+RET00776,ORD003161,changed mind,19,True
+RET00777,ORD003043,wrong size,22,True
+RET00778,ORD004274,color mismatch,3,False
+RET00779,ORD004977,damaged,23,True
+RET00780,ORD009240,quality issue,16,False
+RET00781,ORD008202,damaged,11,True
+RET00782,ORD003897,color mismatch,10,False
+RET00783,ORD000750,counterfeit suspected,21,True
+RET00784,ORD002822,color mismatch,13,False
+RET00785,ORD007359,not as shown,8,True
+RET00786,ORD003595,wrong size,20,True
+RET00787,ORD005077,quality issue,4,False
+RET00788,ORD000069,quality issue,19,False
+RET00789,ORD008631,changed mind,8,True
+RET00790,ORD003697,counterfeit suspected,17,True
+RET00791,ORD009632,wrong size,21,True
+RET00792,ORD007354,color mismatch,11,False
+RET00793,ORD006809,color mismatch,7,True
+RET00794,ORD001635,color mismatch,3,True
+RET00795,ORD008235,wrong size,12,False
+RET00796,ORD003799,damaged,3,False
+RET00797,ORD009901,wrong size,0,True
+RET00798,ORD009459,color mismatch,13,True
+RET00799,ORD000022,not as shown,21,False
+RET00800,ORD000571,not as shown,15,True
+RET00801,ORD008207,counterfeit suspected,1,False
+RET00802,ORD006216,wrong size,4,True
+RET00803,ORD009434,color mismatch,18,False
+RET00804,ORD007401,counterfeit suspected,17,False
+RET00805,ORD003062,not as shown,9,False
+RET00806,ORD003474,wrong size,16,False
+RET00807,ORD000510,wrong size,16,False
+RET00808,ORD007337,not as shown,7,False
+RET00809,ORD002578,damaged,21,True
+RET00810,ORD003640,not as shown,19,True
+RET00811,ORD007978,not as shown,13,True
+RET00812,ORD007190,not as shown,8,True
+RET00813,ORD007654,counterfeit suspected,16,True
+RET00814,ORD004067,counterfeit suspected,13,False
+RET00815,ORD003635,not as shown,3,True
+RET00816,ORD001331,damaged,10,False
+RET00817,ORD008852,quality issue,6,False
+RET00818,ORD000512,color mismatch,13,True
+RET00819,ORD005030,not as shown,19,False
+RET00820,ORD004530,counterfeit suspected,13,True
+RET00821,ORD004622,color mismatch,16,True
+RET00822,ORD007798,not as shown,14,False
+RET00823,ORD007712,not as shown,19,False
+RET00824,ORD005026,changed mind,13,True
+RET00825,ORD005381,damaged,21,True
+RET00826,ORD005403,counterfeit suspected,7,False
+RET00827,ORD009706,not as shown,1,False
+RET00828,ORD004746,damaged,8,True
+RET00829,ORD009819,color mismatch,13,False
+RET00830,ORD000504,not as shown,22,True
+RET00831,ORD002564,not as shown,12,True
+RET00832,ORD005902,counterfeit suspected,5,False
+RET00833,ORD001496,color mismatch,2,True
+RET00834,ORD006678,color mismatch,3,True
+RET00835,ORD006951,damaged,23,True
+RET00836,ORD006741,quality issue,6,False
+RET00837,ORD009995,quality issue,5,True
+RET00838,ORD004660,not as shown,22,False
+RET00839,ORD000717,damaged,20,True
+RET00840,ORD000605,color mismatch,4,True
+RET00841,ORD002769,counterfeit suspected,10,True
+RET00842,ORD006010,quality issue,6,False
+RET00843,ORD002492,color mismatch,22,False
+RET00844,ORD008637,not as shown,12,False
+RET00845,ORD002279,quality issue,4,True
+RET00846,ORD003692,not as shown,15,True
+RET00847,ORD006476,color mismatch,14,True
+RET00848,ORD009755,counterfeit suspected,7,True
+RET00849,ORD004917,quality issue,21,True
+RET00850,ORD000154,wrong size,3,False
+RET00851,ORD001618,wrong size,12,True
+RET00852,ORD001590,quality issue,17,True
+RET00853,ORD007778,quality issue,14,True
+RET00854,ORD005610,wrong size,1,True
+RET00855,ORD008833,counterfeit suspected,4,True
+RET00856,ORD002943,not as shown,2,True
+RET00857,ORD003977,not as shown,18,True
+RET00858,ORD008841,not as shown,22,True
+RET00859,ORD000004,color mismatch,4,True
+RET00860,ORD008419,not as shown,5,True
+RET00861,ORD001919,color mismatch,18,True
+RET00862,ORD007213,quality issue,7,False
+RET00863,ORD003296,not as shown,20,True
+RET00864,ORD006164,color mismatch,7,True
+RET00865,ORD009996,counterfeit suspected,3,True
+RET00866,ORD003376,color mismatch,19,True
+RET00867,ORD005831,color mismatch,20,True
+RET00868,ORD009738,changed mind,23,True
+RET00869,ORD009507,quality issue,3,False
+RET00870,ORD008813,wrong size,5,True
+RET00871,ORD005578,quality issue,23,True
+RET00872,ORD000186,color mismatch,18,True
+RET00873,ORD000618,quality issue,5,True
+RET00874,ORD004757,not as shown,22,True
+RET00875,ORD005423,color mismatch,23,False
+RET00876,ORD007462,damaged,4,False
+RET00877,ORD002020,color mismatch,3,False
+RET00878,ORD009811,counterfeit suspected,13,True
+RET00879,ORD009579,changed mind,19,False
+RET00880,ORD001594,wrong size,18,True
+RET00881,ORD009889,wrong size,13,True
+RET00882,ORD000229,not as shown,17,False
+RET00883,ORD004029,not as shown,5,False
+RET00884,ORD003679,changed mind,13,True
+RET00885,ORD002933,not as shown,0,True
+RET00886,ORD006061,counterfeit suspected,5,False
+RET00887,ORD004337,not as shown,4,True
+RET00888,ORD009061,not as shown,1,True
+RET00889,ORD005858,changed mind,10,True
+RET00890,ORD003609,not as shown,4,True
+RET00891,ORD006278,quality issue,15,True
+RET00892,ORD005598,not as shown,22,True
+RET00893,ORD004805,quality issue,11,False
+RET00894,ORD003447,color mismatch,11,False
+RET00895,ORD009160,damaged,16,False
+RET00896,ORD007020,quality issue,4,True
+RET00897,ORD000632,wrong size,23,True
+RET00898,ORD001809,damaged,23,False
+RET00899,ORD006090,damaged,23,False

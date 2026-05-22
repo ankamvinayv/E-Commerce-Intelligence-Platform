@@ -1,0 +1,11 @@
+product_id,category,stock_level,stockout_risk_score,risk_label
+P0042,Grocery,444,0.7097174,High
+P0096,Electronics,338,0.6854022,High
+P0113,Grocery,310,0.11085097,Low
+P0116,Electronics,457,0.12574089,Low
+P0134,Electronics,487,0.39175594,Medium
+P0143,Fashion,432,0.582777,Medium
+P0270,Grocery,260,0.067030385,Low
+P0352,Beauty,219,0.43779355,Medium
+P0387,Beauty,91,0.82708013,High
+P0446,Fashion,562,0.74100935,High
